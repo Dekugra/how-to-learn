@@ -77,6 +77,7 @@
   width: 568px;
   position: absolute;
   right: 0;
+  top: 64px;
   background-color: #2f80ed;
   z-index: 3;
 }
@@ -200,7 +201,7 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
-  margin: 0 auto;
+  margin: 100px auto 0;
   text-align: center;
   z-index: 10;
   background-color: unset;
@@ -350,9 +351,11 @@
 }
 
 .logo_place_footer {
+  background-image: url(../images/logo_place_footer.svg);
+  background-repeat: no-repeat;
   height: 35px;
-  width: 185px;
-  position: relative;
+  width: 185px;  
+  position: static;
 }
 
 .footer__author {
@@ -384,4 +387,10 @@
   width: 16px;
   height: 16px;
   margin-right: 10px;
+}
+
+.logo_link {
+  position: static;
+  width: 183px;
+  height: 35px;
 }
