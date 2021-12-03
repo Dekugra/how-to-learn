@@ -17,7 +17,6 @@
   display: flex;
   padding-left: 64px;
   position: relative;
-  border: 1px solid #1f1f1f;
   background-color: #f2f2f2;
   align-items: center;
 }
@@ -82,10 +81,6 @@
   z-index: 3;
 }
 
-.description {
-  border: 1px solid #1f1f1f;
-}
-
 .two-columns {
   width: 80%;
   display: flex;
@@ -130,10 +125,6 @@
 
 .two-columns__paragraph:last-child {
   margin: 0;
-}
-
-.digits {
-  border: 1px solid #1f1f1f;
 }
 
 .section-title {
