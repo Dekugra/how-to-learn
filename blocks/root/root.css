@@ -1,0 +1,8 @@
+.root {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+a:hover {
+  color: rgb(203, 224, 243);
+  transition: color 2s linear;
+}

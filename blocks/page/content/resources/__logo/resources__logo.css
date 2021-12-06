@@ -1,0 +1,9 @@
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}
+
+.resources__logo:hover {
+  background-color: rgb(17, 15, 15);
+  transition: background-color 2s linear;
+}
