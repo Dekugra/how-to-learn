@@ -2,7 +2,27 @@
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
-a:hover {
-  color: rgb(203, 224, 243);
+.mylink:hover {
+  color: rgb(56, 57, 58);
+  transition: color 2s linear;
+}
+
+.footer__column-link:hover {
+  color: rgb(18, 19, 20);
+  transition: color 2s linear;
+}
+
+.khan__buy-link:hover {
+  color: rgb(198, 219, 240);
+  transition: color 2s linear;
+}
+
+.feynman__link:hover {
+  color: rgb(198, 219, 240);
+  transition: color 2s linear;
+}
+
+.header__link:hover {
+  color: rgb(198, 219, 240);
   transition: color 2s linear;
 }

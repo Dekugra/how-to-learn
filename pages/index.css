@@ -44,9 +44,9 @@
 @import url(../blocks/khan/__container/__quote/khan__quote.css);
 @import url(../blocks/khan/__container/__quote-author/khan__quote-author.css);
 @import url(../blocks/khan/__container/__quote-author-subline/khan__quote-author-subline.css);
-@import url(../blocks/khan/__container/book-container/book-container.css);
-@import url(../blocks/khan/__container/book-container/__book-pic/khan__book-pic.css);
-@import url(../blocks/khan/__container/book-container/__buy-link/khan__buy-link.css);
+@import url(../blocks/book-container/book-container.css);
+@import url(../blocks/book-container/__book-pic/khan__book-pic.css);
+@import url(../blocks/book-container/__buy-link/khan__buy-link.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
