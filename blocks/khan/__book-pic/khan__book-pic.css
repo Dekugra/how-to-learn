@@ -2,8 +2,6 @@
   width: 620px;
   height: 608px;
   margin-right: 48px;
-}
-
-.myimg {
-  width: 620px;
+  object-fit: cover;
+  object-position: top left;
 }
