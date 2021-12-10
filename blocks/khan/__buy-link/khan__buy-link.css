@@ -5,3 +5,8 @@
   font-weight: normal;
   color: #2f80ed;
 }
+
+.khan__buy-link:hover {
+  color: rgb(198, 219, 240);
+  transition: color 2s linear;
+}

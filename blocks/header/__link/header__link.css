@@ -4,3 +4,8 @@
   text-decoration: none;
   z-index: 7;
 }
+
+.header__link:hover {
+  color: rgb(198, 219, 240);
+  transition: color 2s linear;
+}

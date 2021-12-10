@@ -5,3 +5,8 @@
   line-height: 30px;
   font-size: 18px;
 }
+
+.footer__column-link:hover {
+  color: rgb(18, 19, 20);
+  transition: color 2s linear;
+}

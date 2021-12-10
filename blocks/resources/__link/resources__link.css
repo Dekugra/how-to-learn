@@ -1,0 +1,4 @@
+.resources__link:hover {
+  background-color: rgb(56, 57, 58);
+  transition: background-color 2s linear;
+}
